@@ -44,6 +44,10 @@ class MobileDeveloper {
   <img align="center" alt="Jetpack Compose" height="40" width="50" src="https://developer.android.com/static/images/jetpack/compose/logo-compose.svg">
 </div>
 
+
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
