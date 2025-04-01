@@ -1,4 +1,4 @@
-7Bem-vindo(a) ao meu perfil  😁
+"Bem-vindo(a) ao meu perfil"  💻🐍
 
  <div>
    <a href="https://github.com/wolfdnb">
@@ -35,28 +35,6 @@
 
 
 # 
-
-
-## 👨💻 Sobre Mim
-
-```python
-class PythonDeveloper:
-    def __init__(self):
-        self.name = "Daniel Eduardo"
-        self.specialty = "Desenvolvimento Python"
-        self.stack = {
-            'frameworks': ['Django', 'Flask', 'FastAPI'],
-            'data_science': ['Pandas', 'NumPy', 'Matplotlib'],
-            'tools': ['Jupyter Notebook', 'Docker', 'Git'],
-            'testing': ['pytest', 'unittest']
-        }
-        self.current_projects = ["APIs REST", "Automações", "Análise de Dados"]
-        
-    def greet(self):
-        print(f"Vamos automatizar soluções com Python! 🐍")
-
-dev = PythonDeveloper()
-dev.greet()
 
 👨💻 Sobre Mim
 
