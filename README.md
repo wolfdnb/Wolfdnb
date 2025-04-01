@@ -15,7 +15,7 @@ Bem-vindo(a) ao meu perfil  😁
 <br>
 
  
-markdown
+
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python Logo" width="40" height="40"/>
 
 ### Me siga nas redes sociais!
