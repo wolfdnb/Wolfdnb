@@ -16,29 +16,13 @@ Bem-vindo(a) ao meu perfil  😁
 
 👨💻 Sobre Mim
 
-```python
-class PythonDeveloper:
-    def __init__(self):
-        self.name = "Daniel Eduardo"
-        self.specialty = "Desenvolvimento Python"
-        self.stack = {
-            'frameworks': ['Django', 'Flask', 'FastAPI'],
-            'data_science': ['Pandas', 'NumPy', 'Matplotlib'],
-            'tools': ['Jupyter Notebook', 'Docker', 'Git'],
-            'testing': ['pytest', 'unittest']
-        }
-        self.current_projects = ["APIs REST", "Automações", "Análise de Dados"]
- 
-## ⚡ Curiosidades
-
 - 🐍 Python como linguagem principal
 - 🤖 Crio automações inteligentes
 - 📊 Experiência em análise de dados
 - 🧪 Testes automatizados com pytest
 - 🐳 Dockerização de aplicações
-- 🚀 Foco em desenvolvimento backend com Python
+- 🚀 Foco em desenvolvimento backend com Python 
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python Logo" width="40" height="40"/>
 
 ### Me siga nas redes sociais!
 
