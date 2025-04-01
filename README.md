@@ -9,18 +9,6 @@
 
 
 
-
-kotlin
-class MobileDeveloper {
-    val name = "Daniel Eduardo"
-    val mainSkills = listOf("Android Development", "Kotlin", "Jetpack Compose")
-    val experience = mapOf(
-        "Android" to listOf("Clean Architecture", "MVVM", "Room Database", "Retrofit"),
-        "Python" to listOf
-
-
-
-
 ## 🛠️ Tecnologias
 
 ### 📱 Mobile Development
