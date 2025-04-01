@@ -7,7 +7,39 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-## 🛠️ Tecnologias e Ferramentas Python
+
+
+### 🐍 Python Development
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+</div>
+
+## 👨💻 Sobre Mim
+
+```kotlin
+class MobileDeveloper {
+    val name = "Daniel Eduardo"
+    val mainSkills = listOf("Android Development", "Kotlin", "Jetpack Compose")
+    val experience = mapOf(
+        "Android" to listOf("Clean Architecture", "MVVM", "Room Database", "Retrofit"),
+        "Python" to listOf
+
+
+
+
+## 🛠️ Tecnologias
+
+### 📱 Mobile Development
+<div style="display: inline_block"><br>
+  <img align="center" alt="Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Android Studio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Jetpack Compose" height="40" width="50" src="https://developer.android.com/static/images/jetpack/compose/logo-compose.svg">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
