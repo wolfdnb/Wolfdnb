@@ -18,6 +18,7 @@
 
 ## 👨💻 Sobre Mim
 
+
 ```kotlin
 class MobileDeveloper {
     val name = "Daniel Eduardo"
@@ -32,6 +33,8 @@ class MobileDeveloper {
 ## 🛠️ Tecnologias
 
 ### 📱 Mobile Development
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
