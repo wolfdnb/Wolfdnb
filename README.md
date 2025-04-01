@@ -1,4 +1,4 @@
-88"Bem-vindo(a) ao meu perfil"  💻🐍
+888"Bem-vindo(a) ao meu perfil"  💻🐍
 
  
 <div>
@@ -45,6 +45,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+
 👨💻 Sobre Mim
 
 - 🐍 Python como linguagem principal
@@ -60,6 +61,7 @@ Curiosidades
 - 🌱 Aprendendo constantemente
 - 🎯 Foco atual: Desenvolvimento Web Full Stack
 - 💡 Apaixonado por inovação tecnológica
+
 
 
 ### Me siga nas redes sociais!
