@@ -1,4 +1,4 @@
-8"Bem-vindo(a) ao meu perfil"  💻🐍
+88"Bem-vindo(a) ao meu perfil"  💻🐍
 
  
 <div>
@@ -13,8 +13,7 @@
 
 ### 📱 Mobile Development
 
-
-<div style="display: inline_block"><br>
+    <div style="display: inline_block"><br>
   <img align="center" alt="Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
