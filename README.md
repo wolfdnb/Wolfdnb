@@ -45,8 +45,16 @@
 - 🐳 Dockerização de aplicações
 - 🚀 Foco em desenvolvimento backend com Python 
 
+Curiosidades
+
+- 🎮 Jogo nas horas vagas
+- 🌱 Aprendendo constantemente
+- 🎯 Foco atual: Desenvolvimento Web Full Stack
+- 💡 Apaixonado por inovação tecnológica
+
 
 ### Me siga nas redes sociais!
+
 
 <div> 
   <a href="https://instagram.com/wolf_daniboy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
