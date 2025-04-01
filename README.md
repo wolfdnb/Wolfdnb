@@ -1,4 +1,4 @@
-"Bem-vindo(a) ao meu perfil"  💻🐍
+8"Bem-vindo(a) ao meu perfil"  💻🐍
 
  
 <div>
@@ -10,10 +10,7 @@
 
 
 
-## 👨💻 Sobre Mim
-
-
-```kotlin
+kotlin
 class MobileDeveloper {
     val name = "Daniel Eduardo"
     val mainSkills = listOf("Android Development", "Kotlin", "Jetpack Compose")
