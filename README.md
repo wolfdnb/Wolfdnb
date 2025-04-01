@@ -1,34 +1,46 @@
-# Bem-vindo ao perfil de Daniel Eduardo
+# Bem-vindo ao meu perfil! 👋
 
 <div align="center">
-  <a href="https://github.com/wolfdnb">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wolfdnb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfdnb&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USERNAME&theme=tokyonight"/>
 </div>
 
-## Tecnologias que utilizo
+## 🛠️ Tecnologias e Ferramentas Python
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="NumPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Pytest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg">
 </div>
 
-<br>
-
-## Conecte-se comigo
-
-<div align="center">
-  <a href="https://instagram.com/wolf_daniboy" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.com/users/daniel_eduardo_nascimento" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: daniel_eduardo_nascimento">
-  </a> 
-  <a href="mailto:wolf21.dan@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="VsCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
-![Snake animation](https://github.com/wolfdnb/wolfdnb/blob/output/github-contribution-grid-snake.svg)
+## 👨💻 Sobre Mim
+
+```python
+class PythonDeveloper:
+    def __init__(self):
+        self.name = "Daniel Eduardo"
+        self.specialty = "Desenvolvimento Python"
+        self.stack = {
+            'frameworks': ['Django', 'Flask', 'FastAPI'],
+            'data_science': ['Pandas', 'NumPy', 'Matplotlib'],
+            'tools': ['Jupyter Notebook', 'Docker', 'Git'],
+            'testing': ['pytest', 'unittest']
+        }
+        self.current_projects = ["APIs REST", "Automações", "Análise de Dados"]
+        
+    def greet(self):
+        print(f"Vamos automatizar soluções com Python! 🐍")
+
+dev = PythonDeveloper()
+dev.greet()
