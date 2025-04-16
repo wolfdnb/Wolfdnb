@@ -32,12 +32,7 @@
 
 <div align="center">
   <h3>🚨 Vamos conectar!</h3>
-  <p>Open for: </p>
-  <a href="https://www.linkedin.com/in/daniel-nascimento-564154360" target="_blank">
-    <img src="https://img.shields.io/badge/Collaborations-%E2%9C%A8-blueviolet?style=for-the-badge"> 
-  </a>
-  <img src="https://img.shields.io/badge/Mentoring-%F0%9F%92%AC-important?style=for-the-badge">
-</div>
+  
 
 ## Me siga nas redes sociais!
 
