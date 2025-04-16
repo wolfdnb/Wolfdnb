@@ -16,7 +16,7 @@
 
 - 🐍 Python como linguagem principal
 - 🤖 Crio automações inteligentes
-- 📊 Experiência em análise de dados
+- 📊  análise de dados
 - 🧠 Conhecimentos em programação orientada a objetos
 - 🚀 Foco em desenvolvimento backend com Python 
 
