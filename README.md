@@ -7,34 +7,50 @@
   </a>
 </div>
 
-## 🐍 Python Expertise
+---
+
+## ⚡ Sobre Mim
+
+- 🧠 Estudante de Engenharia de Software | Dev autodidata com foco em alto impacto
+- 🐍 Python como linguagem principal (automação, scraping, back-end, bots)
+- 📱 Construindo soluções reais em Web, Mobile, Bash e cibersegurança ofensiva
+- 🌍 Futuro nômade digital — desenvolvendo projetos com liberdade geográfica
+- 🛠 Criador do projeto educacional `Atomize X` (ferramenta de pentest para Termux)
+
+---
+
+## 🧪 Stack de Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Frameworks-Django%20%7C%20Flask-092E20?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tools-Pandas%20%7C%20Pytest%20%7C%20Docker-306998?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tools-Selenium%20%7C%20Requests%20%7C%20Git-306998?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CyberSec-Termux%20%7C%20Metasploit%20%7C%20Hydra-111111?style=for-the-badge">
 </div>
 
-## 👨‍💻 Sobre Mim
+---
 
-- 🐍 Python como linguagem principal
-- 🤖 Crio automações inteligentes
-- 📊 Experiência em análise de dados
-- 🧠 Conhecimentos em programação orientada a objetos
-- 🚀 Foco em desenvolvimento backend com Python 
+## 🔥 Foco Atual
 
-## Curiosidades
+- Desenvolvimento de apps com Python, Flask e React
+- Criação de bots e automações úteis para o dia a dia
+- Pentest e cibersegurança prática com Termux + Linux
+- Portfólio sólido e presença profissional online
 
-- 🎮 Jogo nas horas vagas
-- 🌱 Aprendendo constantemente
-- 🎯 Foco atual: Desenvolvimento Python Avançado
-- 💡 Apaixonado por inovação tecnológica
+---
 
-<div align="center">
-  <h3>🚨 Vamos conectar!</h3>
-  
+## 📁 Projetos em Destaque
 
-## Me siga nas redes sociais!
+- **Atomize X v3.5** – toolkit educacional de pentest real para Termux
+- **Bot de Scraping com Email Alert** – monitoramento automático de sites
+- **Organizador de Arquivos em Python** – automação para produtividade
+
+> Acesse os repositórios para ver códigos comentados, tutoriais e execuções reais.
+
+---
+
+## 📡 Me acompanhe:
 
 <div align="center"> 
   <a href="https://instagram.com/wolf_daniboy" target="_blank">
@@ -47,3 +63,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+---
+
+> **"Disciplina vence talento. Execução vence desculpas."**  
+> **Estou construindo. Conecte-se e acompanhe minha evolução.**
