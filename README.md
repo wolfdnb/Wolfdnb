@@ -4,6 +4,24 @@
   </a>
 </div>Bem-vindo(a) ao meu perfil 💻🐍
 
+
+
+journey
+    title Roadmap DevSecOps 2025
+    section Fundamentos
+      Lógica de Programação: 2023
+      Git & GitHub: 2023
+      Linux & Bash: 2024
+    section Backend
+      Python Avançado: 2024
+      Flask e APIs REST: 2024
+      Banco de Dados (SQL/NoSQL): 2024
+    section Cibersegurança
+      Pentest com Termux: 2024
+      Metasploit e Recon: 2025
+      Automatizações com Python: 2025
+
+
 <div align="center">
   <a href="https://github.com/wolfdnb">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wolfdnb&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=1a1b27&title_color=4EC9B0&icon_color=4EC9B0&include_all_commits=true&count_private=true"/>
