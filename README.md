@@ -1,65 +1,43 @@
-<!-- README.md -->
-
-<h1 align="center">Bem-vindo(a) ao meu perfil 💻🐍</h1>
+<h1 align="center">👨‍💻 Daniel Nascimento | WolfDNB </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wolfdnb/wolfdnb/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Cibersegurança+%7C+Automação;Python+%7C+Inteligência+Artificial;Estudante+%7C+Explorador+da+Tecnologia">
 </p>
 
 ---
 
-## ⚡ Sobre Mim
-
-- 🧠 Estudante de Engenharia de Software | Dev autodidata com foco em alto impacto  
-- 🐍 Python como linguagem principal (automação, scraping, back-end, bots)  
-- 📱 Construindo soluções reais em Web, Mobile, Bash e cibersegurança ofensiva  
-- 🌍 Futuro nômade digital — desenvolvendo projetos com liberdade geográfica  
-- 🛠 Criador do projeto educacional `Atomize X` (ferramenta de pentest para Termux)
+### 🛠️ **Sobre mim**  
+🔹 Estudante de **Engenharia de Software** e **Cibersegurança**.  
+🔹 Explorando o mundo da **automação, segurança digital e IA**.  
+🔹 Concluí o curso **Google AI Essentials**.  
+🔹 Atualmente aprendendo **Python** para projetos de segurança e automação.  
 
 ---
 
-## 🧪 Stack de Tecnologias
+### 🚀 **Habilidades e Tecnologias**
+💻 **Linguagens:** Python, Shell Script  
+🔒 **Cibersegurança:** Segurança em redes, Termux, Scripts de automação  
+☁ **Cloud & DevOps:** Google Cloud, GitHub  
+⚙ **Ferramentas:** Git, Linux, Termux  
 
+---
+
+### 📊 **Estatísticas do GitHub**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frameworks-Django%20%7C%20Flask-092E20?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tools-Selenium%20%7C%20Requests%20%7C%20Git-306998?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CyberSec-Termux%20%7C%20Metasploit%20%7C%20Hydra-111111?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wolfdnb&show_icons=true&theme=chartreuse-dark&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolfdnb&theme=chartreuse-dark" height="165">
 </p>
 
 ---
 
-## 🔥 Foco Atual
-
-- Desenvolvimento de apps com Python, Flask e React  
-- Criação de bots e automações úteis para o dia a dia  
-- Pentest e cibersegurança prática com Termux + Linux  
-- Portfólio sólido e presença profissional online  
+### 🧠 **Projetos e Estudos**
+- 🔹 Automação de processos com Python e Shell Script  
+- 🔹 Desenvolvimento de scripts de segurança para Termux  
+- 🔹 Aprimoramento de IA e aprendizado de máquina  
 
 ---
 
-## 📁 Projetos em Destaque
-
-- **Atomize X v3.5** – toolkit educacional de pentest real para Termux  
-- **Bot de Scraping com Email Alert** – monitoramento automático de sites  
-- **Organizador de Arquivos em Python** – automação para produtividade
-
-> Acesse os repositórios para ver códigos comentados, tutoriais e execuções reais.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wolfdnb&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=1a1b27&title_color=4EC9B0&icon_color=4EC9B0&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=wolfdnb&theme=holi-theme&hide_border=true&background=1A1B27&stroke=4EC9B0&ring=4EC9B0&fire=4EC9B0&currStreakNum=4EC9B0"/>
-</div>
-
----
-
-## 📡 Me acompanhe:
-
+### ⚡ **Conecte-se comigo**
 <p align="center">
   <a href="https://instagram.com/wolf_daniboy" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -67,7 +45,7 @@
   <a href="mailto:wolf21.dan@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/daniel-nascimento-564154360" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-nascimento-710245362" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
