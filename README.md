@@ -7,6 +7,39 @@
   </a>
 </div>
 
+
+
+
+
+
+
+<!-- <a href="https://www.enes.software/">
+<img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px"
+    align="right" alt="logo devenes">
+</a> -->
+
+<a href="https://www.enes.software/">
+<img src="icon/devenes.webp" width="400" align="right" alt="logo devenes">
+</a>
+
+<p align="left">
+  <img src="./icon/hand.gif" width="28">
+  Welcome to My GitHub World!
+</p>
+<p>
+   Here's Enes and I'm DevOps Platform Engineer
+</p>
+<p align="left">
+  ☕ ☁️ 🐧 🐳 ☸️ 👾 🐋
+</p>
+<p align="left">
+  💼 DevOps & Automation & Orchestration  
+</p>
+
+<br>
+
+<p align="left">
+  <a href="https://www.instagram.com/enes.ai/" alt="Instagram">
 ---
 
 ## ⚡ Sobre Mim
