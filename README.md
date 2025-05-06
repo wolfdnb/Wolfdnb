@@ -71,19 +71,7 @@ Atualmente:
 #    \ V  V / | |___   | |___  ___) |  _  |          
 #     \_/\_/  |_____|  |_____| |____/|_| |_|  v0.1
 
-### 🛠️ **Sobre mim**  
-🔹 Estudante de **Engenharia de Software** e **Cibersegurança**.  
-🔹 Explorando o mundo da **automação, segurança digital e IA**.  
-🔹 Concluí o curso **Google AI Essentials**.  
-🔹 Atualmente aprendendo **Python** para projetos de segurança e automação.  
-
----
-
-### 🚀 **Habilidades e Tecnologias**
-💻 **Linguagens:** Python, Shell Script  
-🔒 **Cibersegurança:** Segurança em redes, Termux, Scripts de automação  
-☁ **Cloud & DevOps:** Google Cloud, GitHub  
-⚙ **Ferramentas:** Git, Linux, Termux  
+  
 
 ---
 
