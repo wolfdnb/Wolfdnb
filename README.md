@@ -1,50 +1,43 @@
-<!-- =============================== -->
-<!--      W O L F D N B   HUB       -->
-<!-- =============================== -->
+<h1 align="center">👨‍💻 Daniel Nascimento | WolfDNB </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&width=750&lines=console.log('Bem‑vindo(a)_');Hack+the+World!">
-</p>
-
-
-┌──────────────────────────────────────────────────────────────┐
-│    • Engenharia de Software (em curso)                      │
-│    • Suporte de TI & Cibersegurança ‑ Google                │
-│    • Google AI Essentials ‑ Concluído                       │
-│    • Python | Automação | Scripts de Segurança | Termux     │
-└──────────────────────────────────────────────────────────────┘
-
-
-<h3 align="center">🛰️  Scanner de Status</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolfdnb&show_icons=true&theme=tokyonight&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&bg_color=00000000&border_color=00ff9c">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wolfdnb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=00ff9c&ring=00ff9c&currStreakLabel=00ff9c">
-</p>
-
-<h3 align="center">🗺️  Radar de Tecnologias</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,figma&perline=7&theme=dark">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Cibersegurança+%7C+Automação;Python+%7C+Inteligência+Artificial;Estudante+%7C+Explorador+da+Tecnologia">
 </p>
 
 ---
 
-### 👾 Sobre mim
-Sou **Daniel “wolfdnb” Nascimento**, apaixonado por **código, automação e segurança**.  
-Atualmente:
-
-- ⌨️  Desenvolvendo scripts no **Termux** para pentest e automação;
-- 📚  Aprimorando Python com foco em **Cibersegurança** e **IA**;
-- 🛠️  Construindo projetos open‑source para compartilhar conhecimento.
-
-> **"Disciplina vence talento. Execução vence desculpas."**  
-> **Estou construindo. Conecte‑se e acompanhe minha evolução.**
+### 🛠️ **Sobre mim**  
+🔹 Estudante de **Engenharia de Software** e **Cibersegurança**.  
+🔹 Explorando o mundo da **automação, segurança digital e IA**.  
+🔹 Concluí o curso **Google AI Essentials**.  
+🔹 Atualmente aprendendo **Python** para projetos de segurança e automação.  
 
 ---
 
-#### 🌐 Contato
+### 🚀 **Habilidades e Tecnologias**
+💻 **Linguagens:** Python, Shell Script  
+🔒 **Cibersegurança:** Segurança em redes, Termux, Scripts de automação  
+☁ **Cloud & DevOps:** Google Cloud, GitHub  
+⚙ **Ferramentas:** Git, Linux, Termux  
 
+---
+
+### 📊 **Estatísticas do GitHub**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wolfdnb&show_icons=true&theme=chartreuse-dark&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wolfdnb&theme=chartreuse-dark" height="165">
+</p>
+
+---
+
+### 🧠 **Projetos e Estudos**
+- 🔹 Automação de processos com Python e Shell Script  
+- 🔹 Desenvolvimento de scripts de segurança para Termux  
+- 🔹 Aprimoramento de IA e aprendizado de máquina  
+
+---
+
+### ⚡ **Conecte-se comigo**
 <p align="center">
   <a href="https://instagram.com/wolf_daniboy" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -59,11 +52,5 @@ Atualmente:
 
 ---
 
-<div align="center">
-
-```text
-#  __        ___        _____  ____  _   _           
-#  \ \      / / |      | ____|/ ___|| | | |          
-#   \ \ /\ / /| |      |  _|  \___ \| |_| |          
-#    \ V  V / | |___   | |___  ___) |  _  |          
-#     \_/\_/  |_____|  |_____| |____/|_| |_|  v0.1
+> **"Disciplina vence talento. Execução vence desculpas."**  
+> **Estou construindo. Conecte-se e acompanhe minha evolução.**
