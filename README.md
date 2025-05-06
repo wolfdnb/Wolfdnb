@@ -1,5 +1,11 @@
 # Bem-vindo(a) ao meu perfil 💻🐍
 
+
+
+<img src="icon/ilus-code.svg" min-width="300px" max-width="300px" width="300px"
+    align="right" alt="logo wolfdnb>
+</a> -->
+
 <div align="center">
   <a href="https://github.com/wolfdnb">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wolfdnb&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=1a1b27&title_color=4EC9B0&icon_color=4EC9B0&include_all_commits=true&count_private=true"/>
