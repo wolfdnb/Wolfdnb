@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Daniel Nascimento | WolfDNB </h1>
+⁸<h1 align="center">👨‍💻 Daniel Nascimento | WolfDNB </h1>
 
 
 <!-- =============================== -->
@@ -14,6 +14,62 @@
 </p>
 
 ---
+
+
+
+
+<h3 align="center">🛰️  Scanner de Status</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wolfdnb&show_icons=true&theme=tokyonight&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&bg_color=00000000&border_color=00ff9c">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wolfdnb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=00ff9c&ring=00ff9c&currStreakLabel=00ff9c">
+</p>
+
+<h3 align="center">🗺️  Radar de Tecnologias</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,figma&perline=7&theme=dark">
+</p>
+
+---
+
+### 👾 Sobre mim
+Sou **Daniel “wolfdnb” Nascimento**, apaixonado por **código, automação e segurança**.  
+Atualmente:
+
+- ⌨️  Desenvolvendo scripts no **Termux** para pentest e automação;
+- 📚  Aprimorando Python com foco em **Cibersegurança** e **IA**;
+- 🛠️  Construindo projetos open‑source para compartilhar conhecimento.
+
+> **"Disciplina vence talento. Execução vence desculpas."**  
+> **Estou construindo. Conecte‑se e acompanhe minha evolução.**
+
+---
+
+#### 🌐 Contato
+
+<p align="center">
+  <a href="https://instagram.com/wolf_daniboy" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:wolf21.dan@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-nascimento-710245362" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+```text
+#  __        ___        _____  ____  _   _           
+#  \ \      / / |      | ____|/ ___|| | | |          
+#   \ \ /\ / /| |      |  _|  \___ \| |_| |          
+#    \ V  V / | |___   | |___  ___) |  _  |          
+#     \_/\_/  |_____|  |_____| |____/|_| |_|  v0.1
 
 ### 🛠️ **Sobre mim**  
 🔹 Estudante de **Engenharia de Software** e **Cibersegurança**.  
