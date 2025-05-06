@@ -6,20 +6,6 @@
 
 
 
-journey
-    title Roadmap DevSecOps 2025
-    section Fundamentos
-      Lógica de Programação: 2023
-      Git & GitHub: 2023
-      Linux & Bash: 2024
-    section Backend
-      Python Avançado: 2024
-      Flask e APIs REST: 2024
-      Banco de Dados (SQL/NoSQL): 2024
-    section Cibersegurança
-      Pentest com Termux: 2024
-      Metasploit e Recon: 2025
-      Automatizações com Python: 2025
 
 
 <div align="center">
@@ -106,4 +92,19 @@ Organizador de Arquivos em Python – automação para produtividade
 Estou construindo. Conecte-se e acompanhe minha evolução.
 
 
+
+journey
+    title Roadmap DevSecOps 2025
+    section Fundamentos
+      Lógica de Programação: 2023
+      Git & GitHub: 2023
+      Linux & Bash: 2024
+    section Backend
+      Python Avançado: 2024
+      Flask e APIs REST: 2024
+      Banco de Dados (SQL/NoSQL): 2024
+    section Cibersegurança
+      Pentest com Termux: 2024
+      Metasploit e Recon: 2025
+      Automatizações com Python: 2025
 
