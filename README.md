@@ -23,7 +23,7 @@
 <h3 align="center">🗺️ Radar de Tecnologias</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,figma&perline=7&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python&perline=7&theme=dark">
 </p>
 
 ---
@@ -60,9 +60,8 @@ Atualmente:
 <div align="center">
 
 ```text
-
 #  _   _    _    ____ _  __
 # | | | |  / \  / ___| |/ /
 # | |_| | / _ \| |   | ' / 
 # |  _  |/ ___ \ |___| . \ 
-#    |_| |_/_/   \_\____|_|\_\   
+# |_| |_/_/   \_\____|_|\_\
