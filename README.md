@@ -37,9 +37,8 @@
 </p>
 
 
-https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-
+<h3>Frameworks e bibliotecas</h3>
 ---
 
 ### 👾 Sobre mim
