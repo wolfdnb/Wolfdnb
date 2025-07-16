@@ -28,11 +28,11 @@
 </p>
 
 
-
+<h3 ferramentas de desenvolvimento </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,,vscode,python" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,,vscode,github" />
   </a>
 </p>
 
