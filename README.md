@@ -1,11 +1,10 @@
 <h1 align="center">👨‍💻 Daniel Nascimento | </h1>
 
 ### 👾 Sobre mim
-Sou Daniel   
-Atualmente:Desenvolvedor em formação, comprometido em  criar soluções modernas, funcionais e com propósito.
-Tenho focado meus estudos em linguagem python com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
-
-
+Olá, sou Daniel! 👋
+Desenvolvedor em Formação | Python Enthusiast | Engenharia de Software & Segurança Cibernética
+Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor em formação, movido pela paixão de criar soluções modernas, funcionais e com propósito. Atualmente, estou imerso no aprendizado da linguagem Python, transformando cada novo conhecimento em projetos reais que refletem minha jornada na Engenharia de Software.
+Minha curiosidade me leva além, e por isso, também estou expandindo meus conhecimentos em Suporte de TI e Cibersegurança. Acredito que a combinação dessas áreas me permitirá construir sistemas mais robustos e seguros.
 
 <!-- =============================== -->
 <!--      W O L F D N B   HUB       -->
