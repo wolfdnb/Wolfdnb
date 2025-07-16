@@ -1,4 +1,4 @@
-⁸<h1 align="center">👨‍💻 Daniel Nascimento | WolfDNB</h1>
+⁸<h1 align="center">👨‍💻 Daniel Nascimento | </h1>
 
 ### 👾 Sobre mim
 Sou Daniel   
