@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Daniel Nascimento | WolfDNB</h1>
+⁸<h1 align="center">👨‍💻 Daniel Nascimento | WolfDNB</h1>
 
 <!-- =============================== -->
 <!--      W O L F D N B   HUB       -->
@@ -28,13 +28,16 @@
 </p>
 
 
-<h3 ferramentas de desenvolvimento </h3>
+<h3> ferramentas de desenvolvimento </h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,,vscode,github" />
   </a>
 </p>
+
+
+https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 ---
