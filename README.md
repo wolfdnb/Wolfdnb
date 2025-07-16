@@ -20,16 +20,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wolfdnb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=00ff9c&ring=00ff9c&currStreakLabel=00ff9c">
 </p>
 
-<h3 align="center">🗺️ Radar de Tecnologias</h3>
+<h3 align="center">🗺️ Radar de Tecnologias e linguagens </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=7&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python docker,&perline=7&theme=dark">
 
 .
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vscode,python" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,,vscode,python" />
   </a>
 </p>
 
