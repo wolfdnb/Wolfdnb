@@ -1,5 +1,12 @@
 ⁸<h1 align="center">👨‍💻 Daniel Nascimento | WolfDNB</h1>
 
+### 👾 Sobre mim
+Sou Daniel   
+Atualmente:Desenvolvedor em formação, comprometido em  criar soluções modernas, funcionais e com propósito.
+Tenho focado meus estudos em linguagem python com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+
+
+
 <!-- =============================== -->
 <!--      W O L F D N B   HUB       -->
 <!-- =============================== -->
@@ -53,9 +60,7 @@
   </a>
 </p>
 
-### 👾 Sobre mim
-Sou **Daniel “wolfdnb” Nascimento**, apaixonado por **código, automação e segurança**.  
-Atualmente:
+
 
 - ⌨️ Desenvolvendo scripts no **Termux** para pentest e automação;  
 - 📚 Aprimorando Python com foco em **Cibersegurança** e **IA**;  
