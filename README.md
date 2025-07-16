@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,,vscode,github,germini" />
   </a>
 </p>
 
