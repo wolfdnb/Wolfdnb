@@ -23,7 +23,7 @@
 <h3 align="center">🗺️ Radar de Tecnologias e linguagens </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,python" />
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,gcp,vscode,github,discord,obsidian" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,gcp,vscode,docker,github,discord,obsidian" />
   </a>
 </p>
 
