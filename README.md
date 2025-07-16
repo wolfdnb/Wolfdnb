@@ -21,11 +21,14 @@
 </p>
 
 <h3 align="center">🗺️ Radar de Tecnologias e linguagens </h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python, docker&perline=7&theme=dark">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python" />
+  </a>
+</p>
 
-.
+
+
 
 <p align="center">
   <a href="https://skillicons.dev">
