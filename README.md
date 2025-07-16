@@ -23,7 +23,7 @@
 <h3 align="center">🗺️ Radar de Tecnologias e linguagens </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python docker,&perline=7&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python, docker&perline=7&theme=dark">
 
 .
 
