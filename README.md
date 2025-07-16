@@ -59,7 +59,8 @@ Minha curiosidade me leva além, e por isso, também estou expandindo meus conhe
   </a>
 </p>
 
-
+Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada 
+Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
 
 - ⌨️ Desenvolvendo scripts no **Termux** para pentest e automação;  
 - 📚 Aprimorando Python com foco em **Cibersegurança** e **IA**;  
