@@ -81,7 +81,7 @@ Minha curiosidade me levou a expandir para áreas como **Suporte de TI**, **Auto
 
 ## 📚 Organização dos Estudos
 
-Organizo meus aprendizados em uma organização separada no GitHub, com:
+Organizo meus aprendizados em uma organização separada no GitHub,https://github.com/Danielestudy com:
 - Resumos técnicos
 - Desafios resolvidos
 - Anotações de cursos
