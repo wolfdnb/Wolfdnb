@@ -1,12 +1,6 @@
 <div align="center">
   <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
 </div>
-### 👾 Sobre mim
-Olá, sou Daniel! 👋
-Desenvolvedor em Formação | Python Enthusiast | Engenharia de Software & Segurança Cibernética
-Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor em formação, movido pela paixão de criar soluções modernas, funcionais e com propósito. Atualmente, estou imerso no aprendizado da linguagem Python, transformando cada novo conhecimento em projetos reais que refletem minha jornada na Engenharia de Software.
-Minha curiosidade me leva além, e por isso, também estou expandindo meus conhecimentos em Suporte de TI e Cibersegurança. Acredito que a combinação dessas áreas me permitirá construir sistemas mais robustos e seguros.
-
 <!-- =============================== -->
 <!--      W O L F D N B   HUB       -->
 <!-- =============================== -->
@@ -17,6 +11,13 @@ Minha curiosidade me leva além, e por isso, também estou expandindo meus conhe
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Cibersegurança+%7C+Automação;Python+%7C+Inteligência+Artificial;Estudante+%7C+Explorador+da+Tecnologia">
 </p>
+### 👾 Sobre mim
+Olá, sou Daniel! 👋
+Desenvolvedor em Formação | Python Enthusiast | Engenharia de Software & Segurança Cibernética
+Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor em formação, movido pela paixão de criar soluções modernas, funcionais e com propósito. Atualmente, estou imerso no aprendizado da linguagem Python, transformando cada novo conhecimento em projetos reais que refletem minha jornada na Engenharia de Software.
+Minha curiosidade me leva além, e por isso, também estou expandindo meus conhecimentos em Suporte de TI e Cibersegurança. Acredito que a combinação dessas áreas me permitirá construir sistemas mais robustos e seguros.
+
+
 
 ---
 
