@@ -41,7 +41,7 @@ Minha curiosidade me levou a expandir para áreas como **Suporte de TI**, **Auto
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,js" />
+    <img src="https://skillicons.dev/icons?i=python,html" />
   </a>
 </p>
 
