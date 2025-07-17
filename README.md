@@ -26,7 +26,9 @@ Minha curiosidade me leva além, e por isso, também estou expandindo meus conhe
   <img src="https://github-readme-stats.vercel.app/api?username=wolfdnb&show_icons=true&theme=tokyonight&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&bg_color=00000000&border_color=00ff9c">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=wolfdnb&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=00ff9c&ring=00ff9c&currStreakLabel=00ff9c">
 </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
 <h3 align="center">🗺️ Radar de Tecnologias e linguagens </h3>
 <p align="center">
   <a href="https://skillicons.dev">
