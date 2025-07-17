@@ -11,13 +11,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Engenharia+de+Software;Cibersegurança+%7C+Automação;Python+%7C+Inteligência+Artificial;Estudante+%7C+Explorador+da+Tecnologia">
 </p>
-### 👾 Sobre mim
-Olá, sou Daniel! 👋
+ 👾 Sobre mim : 
+
+Olá,  Eu sou Daniel! 👋
 Desenvolvedor em Formação | Python Enthusiast | Engenharia de Software & Segurança Cibernética
-Bem-vindo ao meu espaço no GitHub! Sou um desenvolvedor em formação, movido pela paixão de criar soluções modernas, funcionais e com propósito. Atualmente, estou imerso no aprendizado da linguagem Python, transformando cada novo conhecimento em projetos reais que refletem minha jornada na Engenharia de Software.
+Bem-vindo ao meu espaço no GitHub! movido pela paixão de criar soluções modernas, funcionais e com propósito. Atualmente, estou imerso no aprendizado da linguagem Python, transformando cada novo conhecimento em projetos reais que refletem minha jornada na Engenharia de Software.
 Minha curiosidade me leva além, e por isso, também estou expandindo meus conhecimentos em Suporte de TI e Cibersegurança. Acredito que a combinação dessas áreas me permitirá construir sistemas mais robustos e seguros.
-
-
 
 ---
 
@@ -71,9 +70,6 @@ Minha curiosidade me leva além, e por isso, também estou expandindo meus conhe
 Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada 
 Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
 
-- ⌨️ Desenvolvendo scripts no **Ter
-
-
 Conecte-se e acompanhe minha evolução.
 
 ---
@@ -108,9 +104,4 @@ Conecte-se e acompanhe minha evolução.
 
 <div align="center">
 
-```text
-#  _   _    _    ____ _  __
-# | | | |  / \  / ___| |/ /
-# | |_| | / _ \| |   | ' / 
-# |  _  |/ ___ \ |___| . \ 
-# |_| |_/_/   \_\____|_|\_\
+
