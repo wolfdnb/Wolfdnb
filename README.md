@@ -41,7 +41,7 @@ Minha curiosidade me levou a expandir para áreas como **Suporte de TI**, **Auto
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,html,js" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ Minha curiosidade me levou a expandir para áreas como **Suporte de TI**, **Auto
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,fastapi,pytest,vim" />
+    <img src="https://skillicons.dev/icons?i=fastapi" />
   </a>
 </p>
 
@@ -65,7 +65,7 @@ Minha curiosidade me levou a expandir para áreas como **Suporte de TI**, **Auto
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
