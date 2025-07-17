@@ -1,4 +1,4 @@
-7<h1 align="center">👨‍💻 Daniel Nascimento | </h1>
+<h1> align="center">👨‍💻 Daniel Nascimento | </h1>
 
 ### 👾 Sobre mim
 Olá, sou Daniel! 👋
@@ -52,6 +52,11 @@ Minha curiosidade me leva além, e por isso, também estou expandindo meus conhe
   </a>
 </p>
 
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+
+
 <h3>Administração e Manutenção:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -62,12 +67,10 @@ Minha curiosidade me leva além, e por isso, também estou expandindo meus conhe
 Organizo meus aprendizados e anotações em uma organização separada no GitHub chamada 
 Lá você encontra repositórios com resumos, desafios resolvidos, anotações de cursos e projetos de estudo contínuo.
 
-- ⌨️ Desenvolvendo scripts no **Termux** para pentest e automação;  
-- 📚 Aprimorando Python com foco em **Cibersegurança** e **IA**;  
-- 🛠️ Construindo projetos open-source para compartilhar conhecimento.
+- ⌨️ Desenvolvendo scripts no **Ter
 
-> **"Disciplina vence talento. Execução vence desculpas."**  
-> **Estou construindo. Conecte-se e acompanhe minha evolução.**
+
+Conecte-se e acompanhe minha evolução.
 
 ---
 
