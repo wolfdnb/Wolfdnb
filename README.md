@@ -1,3 +1,8 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+
+
+
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniel-nascimento-710245362" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/daniel-nascimento-710245362?trk=profile-badge">Daniel Nascimento</a></div>
               
   <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer" width="100%" />
