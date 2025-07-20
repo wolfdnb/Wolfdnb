@@ -1,3 +1,15 @@
+Clone this project
+$ git clone https://github.com/maurodesouza/profile-readme-generator
+
+# Access
+$ cd profile-readme-generator
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn dev
+
 name: Generate pacman animation
 
 on:
